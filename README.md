@@ -1,2 +1,12 @@
-# LeetCode-Solutions
-✅ Purpose: A curated collection of solved LeetCode problems in Java to strengthen data structures and algorithms (DSA) knowledge.  🧠 Goal: To improve problem-solving skills and prepare for technical interviews.  🔤 Language Used: Java (clean, beginner-friendly code with comments).
+📘 LeetCode Solutions
+A beginner-friendly collection of my LeetCode problem solutions, written in Java. This repository marks the start of my journey into data structures and algorithms, currently focusing on arrays and strings.
+
+📂 Structure
+Each folder represents a topic (e.g., Strings, Arrays), and each file inside is a Java solution to a specific problem.
+
+🧠 Topics Covered (So Far)
+✅ Arrays
+✅ Strings
+
+📌 More topics like Linked Lists, Trees, and Dynamic Programming will be added as I progress.
+
